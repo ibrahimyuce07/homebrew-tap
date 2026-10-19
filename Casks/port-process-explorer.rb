@@ -7,7 +7,7 @@ cask "port-process-explorer" do
   desc "Find and stop processes using network ports on macOS"
   homepage "https://github.com/ibrahimyuce07/port-process-explorer"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Port & Process Explorer.app"
 end
