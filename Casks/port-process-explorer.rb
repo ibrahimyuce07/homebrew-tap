@@ -1,6 +1,6 @@
 cask "port-process-explorer" do
-  version "1.0.1"
-  sha256 "7de5674d72367a9e5aaee5757cdc2b09dadb52b3cdad20c34d0159cbe1f8622e"
+  version "1.0.2"
+  sha256 "7d5618aaf5fce88aa777a79838c67c31b3ea03d7fb2b1c997bba863cc694db62"
 
   url "https://github.com/ibrahimyuce07/port-process-explorer/releases/download/v#{version}/PortProcessExplorer.zip"
   name "Port & Process Explorer"
